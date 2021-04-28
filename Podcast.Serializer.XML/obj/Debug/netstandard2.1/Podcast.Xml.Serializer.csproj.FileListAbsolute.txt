@@ -1,0 +1,108 @@
+C:\PodcastProject\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.deps.json
+C:\PodcastProject\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.dll
+C:\PodcastProject\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.pdb
+C:\PodcastProject\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Abstraction.dll
+C:\PodcastProject\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Abstraction.pdb
+C:\PodcastProject\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.csprojAssemblyReference.cache
+C:\PodcastProject\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.AssemblyInfoInputs.cache
+C:\PodcastProject\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.AssemblyInfo.cs
+C:\PodcastProject\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.csproj.CoreCompileInputs.cache
+C:\PodcastProject\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.csproj.CopyComplete
+C:\PodcastProject\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.dll
+C:\PodcastProject\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.pdb
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.deps.json
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.dll
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.pdb
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Abstraction.dll
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Abstraction.pdb
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.csprojAssemblyReference.cache
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.AssemblyInfoInputs.cache
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.AssemblyInfo.cs
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.csproj.CoreCompileInputs.cache
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.csproj.CopyComplete
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.dll
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.pdb
+C:\Users\nene5\Downloads\podP-senaste\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.deps.json
+C:\Users\nene5\Downloads\podP-senaste\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.dll
+C:\Users\nene5\Downloads\podP-senaste\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.pdb
+C:\Users\nene5\Downloads\podP-senaste\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Abstraction.dll
+C:\Users\nene5\Downloads\podP-senaste\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Abstraction.pdb
+C:\Users\nene5\Downloads\podP-senaste\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.csprojAssemblyReference.cache
+C:\Users\nene5\Downloads\podP-senaste\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.AssemblyInfoInputs.cache
+C:\Users\nene5\Downloads\podP-senaste\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.AssemblyInfo.cs
+C:\Users\nene5\Downloads\podP-senaste\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.csproj.CoreCompileInputs.cache
+C:\Users\nene5\Downloads\podP-senaste\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.csproj.CopyComplete
+C:\Users\nene5\Downloads\podP-senaste\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.dll
+C:\Users\nene5\Downloads\podP-senaste\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.pdb
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.deps.json
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.dll
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.pdb
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Abstraction.dll
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Abstraction.pdb
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.csprojAssemblyReference.cache
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.AssemblyInfoInputs.cache
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.AssemblyInfo.cs
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.csproj.CoreCompileInputs.cache
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.csproj.CopyComplete
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.dll
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.pdb
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.deps.json
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.dll
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.pdb
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Abstraction.dll
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Abstraction.pdb
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.csprojAssemblyReference.cache
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.AssemblyInfoInputs.cache
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.AssemblyInfo.cs
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.csproj.CoreCompileInputs.cache
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.csproj.CopyComplete
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.dll
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.pdb
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.deps.json
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.dll
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.pdb
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Abstraction.dll
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Abstraction.pdb
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.csprojAssemblyReference.cache
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.AssemblyInfo.cs
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.csproj.CopyComplete
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.dll
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.pdb
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.deps.json
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.dll
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.pdb
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Abstraction.dll
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Abstraction.pdb
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.csprojAssemblyReference.cache
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.AssemblyInfoInputs.cache
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.AssemblyInfo.cs
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.csproj.CoreCompileInputs.cache
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.csproj.CopyComplete
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.dll
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.pdb
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.deps.json
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.dll
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.pdb
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Abstraction.dll
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Abstraction.pdb
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.csprojAssemblyReference.cache
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.AssemblyInfoInputs.cache
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.AssemblyInfo.cs
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.csproj.CoreCompileInputs.cache
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.csproj.CopyComplete
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.dll
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.pdb
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.deps.json
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.dll
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.pdb
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Abstraction.dll
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\Podcast.Serializer.XML\bin\Debug\netstandard2.1\Podcast.Abstraction.pdb
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.csprojAssemblyReference.cache
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.AssemblyInfoInputs.cache
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.AssemblyInfo.cs
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.csproj.CoreCompileInputs.cache
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.csproj.CopyComplete
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.dll
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\Podcast.Serializer.XML\obj\Debug\netstandard2.1\Podcast.Xml.Serializer.pdb

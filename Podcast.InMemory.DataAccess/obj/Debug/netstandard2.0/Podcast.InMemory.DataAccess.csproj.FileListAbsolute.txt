@@ -1,0 +1,12 @@
+C:\PodcastProject\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.0\Podcast.InMemory.DataAccess.deps.json
+C:\PodcastProject\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.0\Podcast.InMemory.DataAccess.dll
+C:\PodcastProject\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.0\Podcast.InMemory.DataAccess.pdb
+C:\PodcastProject\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.0\Podcast.Abstraction.dll
+C:\PodcastProject\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.0\Podcast.Abstraction.pdb
+C:\PodcastProject\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.0\Podcast.InMemory.DataAccess.csprojAssemblyReference.cache
+C:\PodcastProject\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.0\Podcast.InMemory.DataAccess.AssemblyInfoInputs.cache
+C:\PodcastProject\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.0\Podcast.InMemory.DataAccess.AssemblyInfo.cs
+C:\PodcastProject\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.0\Podcast.InMemory.DataAccess.csproj.CoreCompileInputs.cache
+C:\PodcastProject\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.0\Podcast.InMemory.DataAccess.csproj.CopyComplete
+C:\PodcastProject\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.0\Podcast.InMemory.DataAccess.dll
+C:\PodcastProject\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.0\Podcast.InMemory.DataAccess.pdb

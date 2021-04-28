@@ -1,0 +1,51 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "Podcast.InMemory.DataAccess/1.0.0": {
+        "dependencies": {
+          "Podcast.Abstraction": "1.0.0",
+          "Podcast.Xml.Serializer": "1.0.0"
+        },
+        "runtime": {
+          "Podcast.InMemory.DataAccess.dll": {}
+        }
+      },
+      "Podcast.Abstraction/1.0.0": {
+        "runtime": {
+          "Podcast.Abstraction.dll": {}
+        }
+      },
+      "Podcast.Xml.Serializer/1.0.0": {
+        "dependencies": {
+          "Podcast.Abstraction": "1.0.0"
+        },
+        "runtime": {
+          "Podcast.Xml.Serializer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Podcast.InMemory.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Podcast.Abstraction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Podcast.Xml.Serializer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

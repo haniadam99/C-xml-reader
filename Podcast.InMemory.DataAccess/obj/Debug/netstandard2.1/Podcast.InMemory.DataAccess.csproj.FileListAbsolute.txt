@@ -1,0 +1,126 @@
+C:\PodcastProject\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.csprojAssemblyReference.cache
+C:\PodcastProject\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.AssemblyInfoInputs.cache
+C:\PodcastProject\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.AssemblyInfo.cs
+C:\PodcastProject\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.csproj.CoreCompileInputs.cache
+C:\PodcastProject\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.InMemory.DataAccess.deps.json
+C:\PodcastProject\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.InMemory.DataAccess.dll
+C:\PodcastProject\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.InMemory.DataAccess.pdb
+C:\PodcastProject\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.Abstraction.dll
+C:\PodcastProject\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.Abstraction.pdb
+C:\PodcastProject\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.csproj.CopyComplete
+C:\PodcastProject\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.dll
+C:\PodcastProject\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.pdb
+C:\PodcastProject\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.dll
+C:\PodcastProject\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.pdb
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.InMemory.DataAccess.deps.json
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.InMemory.DataAccess.dll
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.InMemory.DataAccess.pdb
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.Abstraction.dll
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.dll
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.Abstraction.pdb
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.pdb
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.csprojAssemblyReference.cache
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.AssemblyInfoInputs.cache
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.AssemblyInfo.cs
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.csproj.CopyComplete
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.dll
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.pdb
+C:\Users\nene5\Downloads\podP-senaste\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.InMemory.DataAccess.deps.json
+C:\Users\nene5\Downloads\podP-senaste\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.InMemory.DataAccess.dll
+C:\Users\nene5\Downloads\podP-senaste\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.InMemory.DataAccess.pdb
+C:\Users\nene5\Downloads\podP-senaste\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.Abstraction.dll
+C:\Users\nene5\Downloads\podP-senaste\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.dll
+C:\Users\nene5\Downloads\podP-senaste\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.Abstraction.pdb
+C:\Users\nene5\Downloads\podP-senaste\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.pdb
+C:\Users\nene5\Downloads\podP-senaste\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.csprojAssemblyReference.cache
+C:\Users\nene5\Downloads\podP-senaste\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.AssemblyInfoInputs.cache
+C:\Users\nene5\Downloads\podP-senaste\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.AssemblyInfo.cs
+C:\Users\nene5\Downloads\podP-senaste\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\nene5\Downloads\podP-senaste\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.csproj.CopyComplete
+C:\Users\nene5\Downloads\podP-senaste\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.dll
+C:\Users\nene5\Downloads\podP-senaste\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.pdb
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.InMemory.DataAccess.deps.json
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.InMemory.DataAccess.dll
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.InMemory.DataAccess.pdb
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.Abstraction.dll
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.dll
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.Abstraction.pdb
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.pdb
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.csprojAssemblyReference.cache
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.AssemblyInfoInputs.cache
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.AssemblyInfo.cs
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.csproj.CopyComplete
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.dll
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.pdb
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.InMemory.DataAccess.deps.json
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.InMemory.DataAccess.dll
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.InMemory.DataAccess.pdb
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.Abstraction.dll
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.dll
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.Abstraction.pdb
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.pdb
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.csprojAssemblyReference.cache
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.AssemblyInfoInputs.cache
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.AssemblyInfo.cs
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.csproj.CopyComplete
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.dll
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.pdb
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.InMemory.DataAccess.deps.json
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.InMemory.DataAccess.dll
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.InMemory.DataAccess.pdb
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.Abstraction.dll
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.dll
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.Abstraction.pdb
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.pdb
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.csprojAssemblyReference.cache
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.AssemblyInfo.cs
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.csproj.CopyComplete
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.dll
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.pdb
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.InMemory.DataAccess.deps.json
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.InMemory.DataAccess.dll
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.InMemory.DataAccess.pdb
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.Abstraction.dll
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.dll
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.Abstraction.pdb
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.pdb
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.csprojAssemblyReference.cache
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.AssemblyInfoInputs.cache
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.AssemblyInfo.cs
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.csproj.CopyComplete
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.dll
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.pdb
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.InMemory.DataAccess.deps.json
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.InMemory.DataAccess.dll
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.InMemory.DataAccess.pdb
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.Abstraction.dll
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.dll
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.Abstraction.pdb
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.pdb
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.csprojAssemblyReference.cache
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.AssemblyInfoInputs.cache
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.AssemblyInfo.cs
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.csproj.CopyComplete
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.dll
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.pdb
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.InMemory.DataAccess.deps.json
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.InMemory.DataAccess.dll
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.InMemory.DataAccess.pdb
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.Abstraction.dll
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.dll
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.Abstraction.pdb
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\Podcast.InMemory.DataAccess\bin\Debug\netstandard2.1\Podcast.Xml.Serializer.pdb
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.csprojAssemblyReference.cache
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.AssemblyInfoInputs.cache
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.AssemblyInfo.cs
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.csproj.CopyComplete
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.dll
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\Podcast.InMemory.DataAccess\obj\Debug\netstandard2.1\Podcast.InMemory.DataAccess.pdb

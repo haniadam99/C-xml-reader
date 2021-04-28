@@ -1,0 +1,37 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "Podcast.Xml.Serializer/1.0.0": {
+        "dependencies": {
+          "Podcast.Abstraction": "1.0.0"
+        },
+        "runtime": {
+          "Podcast.Xml.Serializer.dll": {}
+        }
+      },
+      "Podcast.Abstraction/1.0.0": {
+        "runtime": {
+          "Podcast.Abstraction.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Podcast.Xml.Serializer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Podcast.Abstraction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

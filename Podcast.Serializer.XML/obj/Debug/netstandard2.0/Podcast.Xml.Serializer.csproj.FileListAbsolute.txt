@@ -1,0 +1,12 @@
+C:\PodcastProject\Podcast.Serializer.XML\bin\Debug\netstandard2.0\Podcast.Xml.Serializer.deps.json
+C:\PodcastProject\Podcast.Serializer.XML\bin\Debug\netstandard2.0\Podcast.Xml.Serializer.dll
+C:\PodcastProject\Podcast.Serializer.XML\bin\Debug\netstandard2.0\Podcast.Xml.Serializer.pdb
+C:\PodcastProject\Podcast.Serializer.XML\bin\Debug\netstandard2.0\Podcast.Abstraction.dll
+C:\PodcastProject\Podcast.Serializer.XML\bin\Debug\netstandard2.0\Podcast.Abstraction.pdb
+C:\PodcastProject\Podcast.Serializer.XML\obj\Debug\netstandard2.0\Podcast.Xml.Serializer.csprojAssemblyReference.cache
+C:\PodcastProject\Podcast.Serializer.XML\obj\Debug\netstandard2.0\Podcast.Xml.Serializer.AssemblyInfoInputs.cache
+C:\PodcastProject\Podcast.Serializer.XML\obj\Debug\netstandard2.0\Podcast.Xml.Serializer.AssemblyInfo.cs
+C:\PodcastProject\Podcast.Serializer.XML\obj\Debug\netstandard2.0\Podcast.Xml.Serializer.csproj.CoreCompileInputs.cache
+C:\PodcastProject\Podcast.Serializer.XML\obj\Debug\netstandard2.0\Podcast.Xml.Serializer.csproj.CopyComplete
+C:\PodcastProject\Podcast.Serializer.XML\obj\Debug\netstandard2.0\Podcast.Xml.Serializer.dll
+C:\PodcastProject\Podcast.Serializer.XML\obj\Debug\netstandard2.0\Podcast.Xml.Serializer.pdb

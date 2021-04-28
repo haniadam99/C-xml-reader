@@ -1,0 +1,595 @@
+<?xml version="1.0"?>
+<ArrayOfPodcastModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PodcastModel>
+    <items>
+      <ItemDescription>
+        <Name>Flera skadade i attack i Wien</Name>
+        <Summary />
+      </ItemDescription>
+      <ItemDescription>
+        <Name>SVT avslöjar: Mordmisstänkt pekade ut platsen för påträffade kvarlevor</Name>
+        <Summary>Det var en av de två mordmisstänkta männen i Karlskrona som själv ledde polisen vidare till kroppsfyndet i sökandet efter den försvunne 57-åringens kvarlevor. I ett extrainsatt förhör på den misstänktes egen begäran ska mannen ha pekat ut platsen där fyndet nu gjorts, erfar SVT Nyheter Blekinge. </Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Man från länet åtalas för sexuellt övergrepp mot barn</Name>
+        <Summary>En man i 75-årsåldern från Jämtlands län åtalas för sexuellt övergrepp mot barn. </Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Nyheter från dagen: 2 november</Name>
+        <Summary>Detta har hänt i Stockholmsområdet under måndagen den 2 november.</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Attack vid synagoga i Österrike</Name>
+        <Summary>En attack har inträffat vid en synagoga i Österrikes huvudstad Wien och skott har avlossats i de centrala delarna av staden, rapporterar tidningen Kronen Zeitung. Flera personer uppges vara skadade enligt lokalpolisens Twitter, en av dom ska vara en polis som skyddat synagogan.
+– Det är ett enormt stort pådrag med poliser som letar efter en person som misstänks ha skjutit en polis, säger SVT:s utrikesreporter på plats Christoffer Wendick.</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Över 60 miljoner poströster – delstaterna olika väl förberedda</Name>
+        <Summary>Med en dag kvar till valet i USA har minst 95 miljoner amerikaner förhandsröstat – av dem har nära 60 miljoner poströstat. Men förmågan att hantera den stora anstormningen förhandsröster skiljer sig åt mellan delstaterna. </Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Nyheter från dagen: 2 november</Name>
+        <Summary>Detta har hänt i nordvästra Skåne måndagen den 2 november</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Nyheter från dagen: 2 november</Name>
+        <Summary>Detta har hänt i Skåne måndagen den 2 november.</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Så reste svenskarna under höstlovet </Name>
+        <Summary>Svenskarna reste betydligt mindre det här höstlovet jämfört med förra året. Från Stockholm minskade resandet med 32 procent och det är främst långresor norrut som uteblivit. 
+– De riktigt långa resorna har minskat, till exempel från Stockholm till Norrbotten, där resandet minskat med 49 procent, säger Kristofer Ågren, chef på Telia Data Insight. </Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Nya dystra siffror i Frankrike</Name>
+        <Summary />
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Nyheter från dagen: 2 november</Name>
+        <Summary>Detta har hänt i Blekinge måndagen den 2 november.</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Så har Donald Trump infriat tre av sina vallöften </Name>
+        <Summary>Mur mot Mexiko, sänkta skatter och en förbättrad infrastruktur var några av Donald Trumps löften till sina väljare inför valet för fyra år sedan. Men USA-kännaren Jakob Stenberg tror inte att vallöften är det viktigaste för de flesta amerikaner, i synnerhet inte under ett valår som till stor del präglats av en pandemi.</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Nyheter från dagen: 2 november</Name>
+        <Summary>Detta har hänt i Örebro län måndag den 2 november</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Försökte sätta in falska sedlar på banken</Name>
+        <Summary>En man i 45-årsåldern försökte sätta in falska sedlar på sitt konto i en bank i Åtvidaberg under måndagen. Personal på banken larmade polis och de har inlett en förundersökning om försök till bedrägeri och befattning med falska sedlar.</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Nyheter från dagen: 2 november</Name>
+        <Summary>Detta har hänt i Västra Götaland under måndagen 2 november.</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>3,6 milj slovaker har testat sig</Name>
+        <Summary />
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Kraftig ökning av covid-patienter</Name>
+        <Summary />
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Nyheter från dagen 2 november</Name>
+        <Summary>Detta har hänt i Gävleborg måndagen den 2 november:</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Nyheter från dagen: 2 november</Name>
+        <Summary>Detta har hänt i Norrbotten under måndagen 2 november.</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Nyheter från dagen: 2 november</Name>
+        <Summary>Detta har hänt i Värmland under måndagen 2 november.</Summary>
+      </ItemDescription>
+    </items>
+    <LastExecuted>2020-11-02T21:12:36.3063466Z</LastExecuted>
+    <UrlAdress>https://www.svt.se/rss.xml</UrlAdress>
+    <Name>SVT</Name>
+    <Description>De senaste artiklarna på SVT Nyheter</Description>
+    <Interval>20</Interval>
+    <numberOfItems>20</numberOfItems>
+    <Category>Drama</Category>
+  </PodcastModel>
+  <PodcastModel>
+    <items>
+      <ItemDescription>
+        <Name>Lustig säker: Zlatan tar hem Guldbollen</Name>
+        <Summary>▸ Efter landslagsflirten: ”Titta på vad han gjort”</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Stjärnans utspel: Stäng av domarna</Name>
+        <Summary>▸ ”Man borde sätta ner foten”</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>MFF-succén: En match från guld</Name>
+        <Summary>▸ Stjärnan matchhjälte ✓ Då kan Malmö avgöra</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Grattis MFF, ni är mästare igen</Name>
+        <Summary>▸ LAUL: Historiskt starka här</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Då väntar ny ångestmatch</Name>
+        <Summary>▸ Mellberg: ”Tabellen ljuger inte”</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>”Är bara 15 år – men  med skyhög potential”</Name>
+        <Summary>PLUS Experten rankar största tonårstalangerna i svensk handboll på herrsidan ✓ ”En bulldozer på 100 kg – skott av internationellt snitt” ✓ Han är nr 1</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>”Hon är en talang av Guds nåde”</Name>
+        <Summary>PLUS Rankar största talangerna på damsidan</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>”Rookien bäst – i hela superettan?”</Name>
+        <Summary>PLUS Experten tar ut månadens lag i superettan ✓ De dominerar totalt - har sex spelare (!) med här</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Så ska Degerfors locka hem drömvärvningen</Name>
+        <Summary>PLUS TV: 60 minuter bara om Degerfors ✓ Jättesuccén</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Lagt sin röst: ”Står för viktiga saker”</Name>
+        <Summary>▸ Stjärnan avslöjar sitt val ✓ Röststrul i Sverige</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Nya lönelistan: De tjänar miljonbelopp</Name>
+        <Summary>PLUS Så tjänar spelarna i damallsvenskan</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>”Sakta på väg till ett liv efter detta”</Name>
+        <Summary>­ Ikonen svårt sjuk: ”Ligger 24 timmar om dygnet”</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Uppgifter: De tar över fotbolls-EM</Name>
+        <Summary>­ Uppges skrota upplägget ✓ Här ska det avgöras</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>”Inte farligt – sårar bara deras känslor”</Name>
+        <Summary>▸ Blir borta i sex veckor – rasar mot domarna</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>”Det var väldigt illa  – slagsmål på slagsmål”</Name>
+        <Summary>PLUS Björklövens nya stjärna om ✓ Kenttäs pitch ✓ Skandalligan</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Tränarens ord: ’Dörren är där’</Name>
+        <Summary>▸ Svaret till Messi efter kritiken: ”Inte mig själv”</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Förre stjärnan talar ut i känslosamt brev</Name>
+        <Summary>▸ ”Jag fick panikattacker”</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Kris inför mötet – elva spelare sjuka</Name>
+        <Summary>▸ Storklubben drabbad ✓ 17 åkte till Danmark</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Tipset: Så slutar gruppspelet i CL</Name>
+        <Summary>PLUS Profilerna ✓ De går vidare ✓ Överraskar ✓ Svåra att älska</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>”Sjukt häftigt, svårt att sätta ord på det”</Name>
+        <Summary>▸ Klar för Modo tack vare Forsberg och Forsberg</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Stjärnorna betalar jättebelopp</Name>
+        <Summary>▸ Modos krisdrag – efter swishkampanjen</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Björklöven kommer att krossa rekordet</Name>
+        <Summary>PLUS Wennerholm: Ännu bättre nu</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Slåss om guldet – på väg till rivalen</Name>
+        <Summary>▸ Lagkaptenen nära att lämna – detaljer återstår</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Bergström: Det här är en bomb</Name>
+        <Summary>▸ Lagkaptenen nära rivalen</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Nya lönelistan: De tjänar miljonbelopp</Name>
+        <Summary>PLUS Så tjänar spelarna i damallsvenskan</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Lewicki: Har aldrig uttryckt något sånt</Name>
+        <Summary>▸ Otroliga facit trots sex olika tränare: ”Inget issue”</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Trots tränarens ord – nu petas han igen</Name>
+        <Summary>▸ Var en av seriens bästa i fjol</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>”Ska leverera ett nytt Malmö – nytt guldlag”</Name>
+        <Summary>PLUS Jon Dahl Tomasson i stor intervju om: ”Utvecklats kolossalt”</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Fem önskningar i Maries sista brev</Name>
+        <Summary>▸ Maken: ”Jag uppfyller alla utom den sista”</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Zlatans flört (?) med landslaget</Name>
+        <Summary>▸ Hintar inför uttagningen ✓ Landslagschefens svar</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Uppmärksammas över hela världen</Name>
+        <Summary>▸ Efter uppvisningen: ”Guds fot”</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Sprickan mellan Janne &amp;amp; Zlatan</Name>
+        <Summary>PLUS ✓ Utbrottet ✓ Bluffen ✓ Anklagelserna</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Svenskarnas succé – båda är nominerade</Name>
+        <Summary>▸ Kan vinna fint pris på galan</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Här ska ikonhästen  Järvsöfaks begravas</Name>
+        <Summary>▸ Hit förs han till sista vilan: ”Fick idén tidigt”</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Lagerbäcks ilska: ”De är amatörer”</Name>
+        <Summary>▸ Stjärnan tillbaka efter bråket ✓ Flera kängor</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Så tjänar spelarna i allsvenskan</Name>
+        <Summary>PLUS LÖNELISTA ✓ Lag för lag i allsvenskan</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Så kan du bli rik på dina NHL-hockeykort</Name>
+        <Summary>PLUS Mikael, 38, tjänar stora summor på sin fritid ✓ Dyrgriparna du kan ha i din samling: ”Folk kan betala otroligt mycket” ✓ Så här ska du sälja</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Här är hetaste svenska hockeykorten</Name>
+        <Summary>PLUS Lista: ”Den är glödhet, en riktig dyrgrip”</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Trots tränarens ord – nu petas han igen</Name>
+        <Summary>▸ En av seriens bästa i fjol – utanför truppen</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>”Ska leverera ett nytt Malmö – nytt guldlag”</Name>
+        <Summary>PLUS Jon Dahl Tomasson i stor intervju om: ”Utvecklats kolossalt”</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>”Han är alldeles för vass för Hockeyettan”</Name>
+        <Summary>PLUS Experten rankar Hockeyettans 25 hetaste spelare ✓ ”Har alla verktyg för att explodera”</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Plusbetyg på 1 000 (!) spelare i Hockeyettan</Name>
+        <Summary>PLUS Jättegenomgång: Så bra är spelarna i alla Hockeyettan-serier</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Ikonens dom: Nu måste han lämna</Name>
+        <Summary>▸ ”Spelarna hjälpte inte till” ✓ Senaste rubrikerna</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>”Här är Arsenal-tränarens utmaning”</Name>
+        <Summary>PLUS Kalle Karlssons analys av Big 6-klubbarna</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Ingen vet att svenske stjärnan gömmer sig</Name>
+        <Summary>▸ Går ostört på stan ✓ Succé på sociala medier</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Här är hetaste svenska hockeykorten</Name>
+        <Summary>PLUS Lista: ”Den är glödhet, en riktig dyrgrip”</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Zlatans drömträff är överallt: ”Guds fot”</Name>
+        <Summary>▸ Stora rubriker i Europa efter uppvisningen i går</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>”Då kommer jag inte spela mer”</Name>
+        <Summary>▸ Zlatan svarar om framtiden</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>”Var en sekund från MMA-fajt”</Name>
+        <Summary>PLUS Avslöjar Zlatans övertramp: ”Borde ha polisanmält” ✓ Tvingades gå emellan i bråket</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Tvingas lämna efter överfallet i matchen</Name>
+        <Summary>▸ Slår flera gånger innan laget reagerar ✓ Se klipp</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>20 skandaler som skakat idrotten</Name>
+        <Summary>PLUS ✓ Blodbad ✓ Underbarnet blev knarkare</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Almenäs satsning – hjälper ”Bajen”</Name>
+        <Summary>▸ Blir hästägare: ”Kunde inte låta bli”</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>”Tappade kontrollen – då gick det åt helvete”</Name>
+        <Summary>▸ Succéspelaren berättar om mörka tiden</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Fynden Degerfors kan göra – från rivalerna</Name>
+        <Summary>PLUS TV: 60 min om succélaget ✓ Galna vadet ✓ Drömvärvningen</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>”Då kommer jag inte spela mer”</Name>
+        <Summary>▸ Zlatan svarar om framtiden – efter drömmålet</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Historisk målskytt – först sedan Beckham</Name>
+        <Summary>▸ Slog flera rekord i galna matchen</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>”Var en sekund från MMA-fajt”</Name>
+        <Summary>PLUS Avslöjar Zlatans övertramp: ”Borde ha polisanmält” ✓ Tvingades gå emellan i bråket</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Rånar – då dyker storstjärnan upp</Name>
+        <Summary>▸ Tar med hagelgevär och springer i kalsongerna</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>20 skandaler som skakat idrotten</Name>
+        <Summary>PLUS ✓ Blodbad ✓ Underbarnet blev knarkare</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>”Behöver kliva fram och ta större befäl”</Name>
+        <Summary>PLUS Kalle Karlsson analys av Big Six-klubbarna ✓ ”Klarar han att leda laget?” ✓ ”Oundviklig kritik”</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Tipset: Så slutar gruppspelet i CL</Name>
+        <Summary>PLUS Profilerna ✓ De går vidare ✓ Överraskar ✓ Svåra att älska</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>”Sitter här och är riktigt förbannad”</Name>
+        <Summary>▸ Nilssons ilska – krisen växer för IFK Göteborg</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Erlingmark: Nu är det allvarligt läge</Name>
+        <Summary>▸ ”Det är jävligt tufft att stå här”</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>”Vi har världens läge nu”</Name>
+        <Summary>▸ Knallen i botten – hoppet lever för Falkenberg</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Titta, här släpper de in publik på arenan</Name>
+        <Summary>▸ Först i allsvenskan denna säsong</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Bale bröt sin 284 dagar långa svit</Name>
+        <Summary>▸ Hoppade in och blev stor hjälte för Tottenham</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Kritikerna kommer fortsätta att väsnas</Name>
+        <Summary>­ Fagerlund: En dominerade kraft</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>”Här är Arsenal-tränarens utmaning”</Name>
+        <Summary>PLUS Kalle Karlssons analys av Big 6-klubbarna</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>”Hammarby inte bra någonstans”</Name>
+        <Summary>▸ Kängan till Bajen i jakten på Europaplatserna</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Hjälten: Jag var sämst på planen</Name>
+        <Summary>▸ Poängräddaren sågar sig själv</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Vilket sorgligt gäng ”topplag”</Name>
+        <Summary>BOHMAN: Europaracet vidöppet</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Förklaringen efter hemska blundern</Name>
+        <Summary>▸ Domaren bad om ursäkt direkt på planen ✓ Klipp</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>”Skämtade om Thern innan...”</Name>
+        <Summary>▸ Elfsborg fick sen straffspark</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>▸ Tar blytung seger – vände mot ’Peking’</Name>
+        <Summary>No summary</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Krossade ÖFK efter drömstart</Name>
+        <Summary>▸ Gjorde tre mål på bara 21 minuter</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>”Det säger mycket om hans förfall”</Name>
+        <Summary>PLUS LISTA: Årets största floppar i allsvenskan – klubb för klubb</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>De åker tyvärr ur damallsvenskan</Name>
+        <Summary>FREDRIKSSON Självförtroendet som bortblåst</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Vann igen – kan bli mästare nästa helg</Name>
+        <Summary>▸ ”Satt oss i en väldigt bra sits”</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Blytunga tappet för Linköping</Name>
+        <Summary>▸ Hjälte på övertid ✓ Piteås sköna trepoängare</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Försvarade titeln efter förlängning</Name>
+        <Summary>▸ City vann dramat – tredje finalsegern på fyra år</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Knockade ikonen: ”Förlåt! Förlåt!”</Name>
+        <Summary>▸ Grät efter segern: ”Borde aldrig fajtas igen”</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>SSK är plötsligt en allvarlig utmanare</Name>
+        <Summary>PLUS WENNERHOLM Säsongens bästa match</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Stjärnan skadad i första förlusten</Name>
+        <Summary>▸ ”Vet inte vem som beslutade”</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Dahlén tillbaka – poängshow direkt</Name>
+        <Summary>▸ Sjätte raka segern för Timrå</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Vann TV-pucken: ”Så jävla skönt!”</Name>
+        <Summary>▸ Mästare för andra året i rad ✓ Finalens lirare</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Mästare efter en stor uppvisning</Name>
+        <Summary>▸ Revansch: ”Sög fett förra året”</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>5 000 i tv-pucken – så gick det sen</Name>
+        <Summary>PLUS Alla spelare födda mellan 1985–1994</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>”Blir förbannad – dödar racingen”</Name>
+        <Summary>▸ Mästarna: ”Är som för stora parkeringsplatser”</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Fynden Degerfors kan göra – från rivalerna</Name>
+        <Summary>PLUS Stor analys av succélaget ✓ Hoten ✓ Vadet ✓ Så ska de förstärka 2021 ✓ Supportens misär</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Borta i tre veckor – mål på tre minuter</Name>
+        <Summary>▸ Friskförklarad Ronaldo glödhet</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>”Stor tomhet, även om jag förstått det ett tag”</Name>
+        <Summary>▸ Landslagsstjärnan tvingas lägga av 30 år gammal</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Ny lönelista: Han tjänar mest i ligan</Name>
+        <Summary>PLUS Här är lönerna för spelarna i handbollsligan ✓ Se hela listan</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Jättefajt i SDHL: Sex matchstraff</Name>
+        <Summary>▸ ”Sedan är det bara ett huller om buller av spelare”</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>”Nästan omöjligt att köpa byxor”</Name>
+        <Summary>▸ Starka reaktioner efter bilden på succéspelaren</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Uppmaningen till Bajen från Milano</Name>
+        <Summary>▸ Mitt i Hammarbys firande kom en hälsning</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Isolerade stjärnan: ”Jag bara gråter...”</Name>
+        <Summary>▸ Här bryter hon ihop framför tv:n</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>”Alla har kämpat varje j-a match”</Name>
+        <Summary>▸ Bajen klart för damallsvenskan</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>”Kärleken vinner alltid – grattis!”</Name>
+        <Summary>▸ Här förlovar sig storstjärnorna – hyllas av Biden</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>”Får aldrig igenom det, Hunt är en sur gubbj-l”</Name>
+        <Summary>PLUS Stor intervju med Peter Hunt ✓ IFK:s lyckade scouting ✓ Då slutar han som ordförande</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>”Det säger mycket om hans förfall”</Name>
+        <Summary>PLUS LISTA: Årets största floppar i allsvenskan – klubb för klubb</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>”Slutet på världen som vi känner den”</Name>
+        <Summary>▸ Förre NHL-busen rasar efter regeländringen</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Bästa och sämsta NHL-mästarna</Name>
+        <Summary>PLUS Bjurman rankar vinnarna under 2000-talet</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Blir de två första i Super Bowl-eran</Name>
+        <Summary>BJÖRK: Historiskt toppmöte i kväll ✓ Listan</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>”Tänker på det när jag är på bänken”</Name>
+        <Summary>▸ Nyförvärvet räddade Liverpool från poängtapp</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>”Här är Arsenal-tränarens utmaning”</Name>
+        <Summary>PLUS Kalle Karlssons analys av Big 6-klubbarna</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Chockuppgifter: Riskerar konkurs</Name>
+        <Summary>▸ Kris i Barcelona – måste hinna innan tisdag</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Barças nya flopp efter bjudningen</Name>
+        <Summary>▸ Fjärde ligamatchen utan seger</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Bröt 392 dagar långa måltorkan</Name>
+        <Summary>▸ Slog till i Real Madrids storseger</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>”Var nästan som en vanlig match”</Name>
+        <Summary>▸ Hyllar publiken efter derbyseger – tog revansch</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>”Är den stora överraskningen”</Name>
+        <Summary>PLUS Hockeypanelen: ✓ Stänga SHL? ✓ Coronaläget ✓ Nya reglerna i HA</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Marius Zaliukas död – blev 36 år</Name>
+        <Summary>▸ Sörjer landslagsikonen: ”Inspirerade många”</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Idrottarna som dog för tidigt</Name>
+        <Summary>PLUS 18 tragiska fall ✓ Var mitt i karriären</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Skadebesvär stoppar Sjöström från tävling</Name>
+        <Summary>▸ ”Kommer heja på från läktaren”</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Sover gott igen – tack vare botox</Name>
+        <Summary>▸ Svenske profilen: ”Chockad när läkaren sa det”</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Vann stormötet: ’Var skoj så klart’</Name>
+        <Summary>▸ Untersteiner: Hade god feeling hela tiden</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Får hålla i sig – vilken insats</Name>
+        <Summary>▸ Tre punkter efter V75</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Dif bekräftar: Har smittats av corona</Name>
+        <Summary>▸ Hela truppen testas: ”Oro att fler är smittade”</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>”Det säger mycket om hans förfall”</Name>
+        <Summary>PLUS LISTA: Årets största floppar i allsvenskan – klubb för klubb</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Glädjebesked för IFK Göteborg</Name>
+        <Summary>▸ Bara en spelare saknades på lördagens träning</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>”Mina föräldrar hade fått skit”</Name>
+        <Summary>▸ Citys hjälte vägrade fira sin jättekanon</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Fjärde raka nollan av Chelsea</Name>
+        <Summary>▸ Vann enkelt borta mot Burnley</Summary>
+      </ItemDescription>
+      <ItemDescription>
+        <Name>Kaxiga senast – nu blev Brynäs krossat</Name>
+        <Summary>▸ Luleå körde över Brynäs ✓ ”De är lite rädda”</Summary>
+      </ItemDescription>
+    </items>
+    <LastExecuted>2020-11-02T21:29:48.0530555Z</LastExecuted>
+    <UrlAdress>https://rss.aftonbladet.se/rss2/small/pages/sections/sportbladet/</UrlAdress>
+    <Name>Sport</Name>
+    <Description>Aftonbladet RSS Service</Description>
+    <Interval>2</Interval>
+    <numberOfItems>122</numberOfItems>
+    <Category>Sport</Category>
+  </PodcastModel>
+</ArrayOfPodcastModel>

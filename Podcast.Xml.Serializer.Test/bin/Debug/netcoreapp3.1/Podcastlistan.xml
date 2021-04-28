@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<ArrayOfPodcastModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PodcastModel>
+    <items>
+      <ItemDescription>
+        <Name>SvtNyheter</Name>
+        <Summary>SVTlokaNyheter</Summary>
+      </ItemDescription>
+    </items>
+    <Id>0</Id>
+    <Name>name1</Name>
+    <Description>des</Description>
+    <Interval>0</Interval>
+    <Category>Komedi</Category>
+  </PodcastModel>
+  <PodcastModel>
+    <items />
+    <Id>0</Id>
+    <Name>name2</Name>
+    <Description>des1</Description>
+    <Interval>0</Interval>
+    <Category>Drama</Category>
+  </PodcastModel>
+</ArrayOfPodcastModel>

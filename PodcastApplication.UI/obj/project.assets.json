@@ -1,0 +1,199 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "System.ServiceModel.Syndication/4.7.0": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.1/System.ServiceModel.Syndication.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.ServiceModel.Syndication.dll": {}
+        }
+      },
+      "Podcast.Abstraction/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Podcast.Abstraction.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Podcast.Abstraction.dll": {}
+        }
+      },
+      "Podcast.BusinessLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Podcast.Abstraction": "1.0.0",
+          "Podcast.Xml.Serializer": "1.0.0",
+          "System.ServiceModel.Syndication": "4.7.0"
+        },
+        "compile": {
+          "bin/placeholder/Podcast.BusinessLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Podcast.BusinessLayer.dll": {}
+        }
+      },
+      "Podcast.InMemory.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Podcast.Abstraction": "1.0.0",
+          "Podcast.Xml.Serializer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Podcast.InMemory.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Podcast.InMemory.DataAccess.dll": {}
+        }
+      },
+      "Podcast.Xml.Serializer/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Podcast.Abstraction": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Podcast.Xml.Serializer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Podcast.Xml.Serializer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "System.ServiceModel.Syndication/4.7.0": {
+      "sha512": "uqGE0hFhoE6w7SxBchhR+ebdf4krpnZe3FPdo7skxJZHOqwcGk+cDZ74Yfp3yFD2yl3emHBGAZb6SBsQWEaSkg==",
+      "type": "package",
+      "path": "system.servicemodel.syndication/4.7.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/System.ServiceModel.Syndication.dll",
+        "lib/net461/System.ServiceModel.Syndication.xml",
+        "lib/netstandard2.0/System.ServiceModel.Syndication.dll",
+        "lib/netstandard2.0/System.ServiceModel.Syndication.xml",
+        "ref/net461/System.ServiceModel.Syndication.dll",
+        "ref/net461/System.ServiceModel.Syndication.xml",
+        "ref/netcoreapp2.1/System.ServiceModel.Syndication.dll",
+        "ref/netcoreapp2.1/System.ServiceModel.Syndication.xml",
+        "ref/netstandard2.0/System.ServiceModel.Syndication.dll",
+        "ref/netstandard2.0/System.ServiceModel.Syndication.xml",
+        "runtimes/win/lib/net461/System.ServiceModel.Syndication.dll",
+        "runtimes/win/lib/net461/System.ServiceModel.Syndication.xml",
+        "system.servicemodel.syndication.4.7.0.nupkg.sha512",
+        "system.servicemodel.syndication.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "Podcast.Abstraction/1.0.0": {
+      "type": "project",
+      "path": "../Podcast.Abstraction/Podcast.Abstraction.csproj",
+      "msbuildProject": "../Podcast.Abstraction/Podcast.Abstraction.csproj"
+    },
+    "Podcast.BusinessLayer/1.0.0": {
+      "type": "project",
+      "path": "../PodcastManager/Podcast.BusinessLayer.csproj",
+      "msbuildProject": "../PodcastManager/Podcast.BusinessLayer.csproj"
+    },
+    "Podcast.InMemory.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../Podcast.InMemory.DataAccess/Podcast.InMemory.DataAccess.csproj",
+      "msbuildProject": "../Podcast.InMemory.DataAccess/Podcast.InMemory.DataAccess.csproj"
+    },
+    "Podcast.Xml.Serializer/1.0.0": {
+      "type": "project",
+      "path": "../Podcast.Serializer.XML/Podcast.Xml.Serializer.csproj",
+      "msbuildProject": "../Podcast.Serializer.XML/Podcast.Xml.Serializer.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Podcast.BusinessLayer >= 1.0.0",
+      "Podcast.InMemory.DataAccess >= 1.0.0",
+      "Podcast.Xml.Serializer >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\hania\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\hania\\OneDrive\\Desktop\\Skola\\C#\\Projektet c#\\Projekt_Grp19\\PodcastApplication.UI\\PodcastApplication.UI.csproj",
+      "projectName": "PodcastApplication.UI",
+      "projectPath": "C:\\Users\\hania\\OneDrive\\Desktop\\Skola\\C#\\Projektet c#\\Projekt_Grp19\\PodcastApplication.UI\\PodcastApplication.UI.csproj",
+      "packagesPath": "C:\\Users\\hania\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hania\\OneDrive\\Desktop\\Skola\\C#\\Projektet c#\\Projekt_Grp19\\PodcastApplication.UI\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\hania\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\hania\\OneDrive\\Desktop\\Skola\\C#\\Projektet c#\\Projekt_Grp19\\Podcast.InMemory.DataAccess\\Podcast.InMemory.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\hania\\OneDrive\\Desktop\\Skola\\C#\\Projektet c#\\Projekt_Grp19\\Podcast.InMemory.DataAccess\\Podcast.InMemory.DataAccess.csproj"
+            },
+            "C:\\Users\\hania\\OneDrive\\Desktop\\Skola\\C#\\Projektet c#\\Projekt_Grp19\\Podcast.Serializer.XML\\Podcast.Xml.Serializer.csproj": {
+              "projectPath": "C:\\Users\\hania\\OneDrive\\Desktop\\Skola\\C#\\Projektet c#\\Projekt_Grp19\\Podcast.Serializer.XML\\Podcast.Xml.Serializer.csproj"
+            },
+            "C:\\Users\\hania\\OneDrive\\Desktop\\Skola\\C#\\Projektet c#\\Projekt_Grp19\\PodcastManager\\Podcast.BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\hania\\OneDrive\\Desktop\\Skola\\C#\\Projektet c#\\Projekt_Grp19\\PodcastManager\\Podcast.BusinessLayer.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

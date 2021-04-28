@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NQcdJbRAMlCAEX5+ITEVBE+gTqUKfDQXwkHIYZ4tn9cV4kjXHwmSMV8lkn/BIyT5YUjj+NEXEhfid8A4CI0FRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hania\\OneDrive\\Desktop\\Skola\\C#\\Projektet c#\\Projekt_Grp19\\PodcastApplication.UI\\PodcastApplication.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hania\\.nuget\\packages\\system.servicemodel.syndication\\4.7.0\\system.servicemodel.syndication.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

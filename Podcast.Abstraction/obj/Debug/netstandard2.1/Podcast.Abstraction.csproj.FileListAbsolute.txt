@@ -1,0 +1,81 @@
+C:\PodcastProject\Podcast.Abstraction\bin\Debug\netstandard2.1\Podcast.Abstraction.deps.json
+C:\PodcastProject\Podcast.Abstraction\bin\Debug\netstandard2.1\Podcast.Abstraction.dll
+C:\PodcastProject\Podcast.Abstraction\bin\Debug\netstandard2.1\Podcast.Abstraction.pdb
+C:\PodcastProject\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.csprojAssemblyReference.cache
+C:\PodcastProject\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.AssemblyInfoInputs.cache
+C:\PodcastProject\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.AssemblyInfo.cs
+C:\PodcastProject\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.csproj.CoreCompileInputs.cache
+C:\PodcastProject\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.dll
+C:\PodcastProject\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.pdb
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\Podcast.Abstraction\bin\Debug\netstandard2.1\Podcast.Abstraction.deps.json
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\Podcast.Abstraction\bin\Debug\netstandard2.1\Podcast.Abstraction.dll
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\Podcast.Abstraction\bin\Debug\netstandard2.1\Podcast.Abstraction.pdb
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.csprojAssemblyReference.cache
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.AssemblyInfoInputs.cache
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.AssemblyInfo.cs
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.dll
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.pdb
+C:\Users\nene5\Downloads\podP-senaste\Podcast.Abstraction\bin\Debug\netstandard2.1\Podcast.Abstraction.deps.json
+C:\Users\nene5\Downloads\podP-senaste\Podcast.Abstraction\bin\Debug\netstandard2.1\Podcast.Abstraction.dll
+C:\Users\nene5\Downloads\podP-senaste\Podcast.Abstraction\bin\Debug\netstandard2.1\Podcast.Abstraction.pdb
+C:\Users\nene5\Downloads\podP-senaste\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.csprojAssemblyReference.cache
+C:\Users\nene5\Downloads\podP-senaste\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.AssemblyInfoInputs.cache
+C:\Users\nene5\Downloads\podP-senaste\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.AssemblyInfo.cs
+C:\Users\nene5\Downloads\podP-senaste\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\nene5\Downloads\podP-senaste\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.dll
+C:\Users\nene5\Downloads\podP-senaste\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.pdb
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\Podcast.Abstraction\bin\Debug\netstandard2.1\Podcast.Abstraction.deps.json
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\Podcast.Abstraction\bin\Debug\netstandard2.1\Podcast.Abstraction.dll
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\Podcast.Abstraction\bin\Debug\netstandard2.1\Podcast.Abstraction.pdb
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.csprojAssemblyReference.cache
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.AssemblyInfoInputs.cache
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.AssemblyInfo.cs
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.dll
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.pdb
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\Podcast.Abstraction\bin\Debug\netstandard2.1\Podcast.Abstraction.deps.json
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\Podcast.Abstraction\bin\Debug\netstandard2.1\Podcast.Abstraction.dll
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\Podcast.Abstraction\bin\Debug\netstandard2.1\Podcast.Abstraction.pdb
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.csprojAssemblyReference.cache
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.AssemblyInfoInputs.cache
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.AssemblyInfo.cs
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.dll
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.pdb
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\Podcast.Abstraction\bin\Debug\netstandard2.1\Podcast.Abstraction.deps.json
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\Podcast.Abstraction\bin\Debug\netstandard2.1\Podcast.Abstraction.dll
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\Podcast.Abstraction\bin\Debug\netstandard2.1\Podcast.Abstraction.pdb
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.csprojAssemblyReference.cache
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.AssemblyInfo.cs
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.dll
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.pdb
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\Podcast.Abstraction\bin\Debug\netstandard2.1\Podcast.Abstraction.deps.json
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\Podcast.Abstraction\bin\Debug\netstandard2.1\Podcast.Abstraction.dll
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\Podcast.Abstraction\bin\Debug\netstandard2.1\Podcast.Abstraction.pdb
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.csprojAssemblyReference.cache
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.AssemblyInfoInputs.cache
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.AssemblyInfo.cs
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.dll
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.pdb
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\Podcast.Abstraction\bin\Debug\netstandard2.1\Podcast.Abstraction.deps.json
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\Podcast.Abstraction\bin\Debug\netstandard2.1\Podcast.Abstraction.dll
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\Podcast.Abstraction\bin\Debug\netstandard2.1\Podcast.Abstraction.pdb
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.csprojAssemblyReference.cache
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.AssemblyInfoInputs.cache
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.AssemblyInfo.cs
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.dll
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.pdb
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\Podcast.Abstraction\bin\Debug\netstandard2.1\Podcast.Abstraction.deps.json
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\Podcast.Abstraction\bin\Debug\netstandard2.1\Podcast.Abstraction.dll
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\Podcast.Abstraction\bin\Debug\netstandard2.1\Podcast.Abstraction.pdb
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.csprojAssemblyReference.cache
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.AssemblyInfoInputs.cache
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.AssemblyInfo.cs
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.dll
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\Podcast.Abstraction\obj\Debug\netstandard2.1\Podcast.Abstraction.pdb

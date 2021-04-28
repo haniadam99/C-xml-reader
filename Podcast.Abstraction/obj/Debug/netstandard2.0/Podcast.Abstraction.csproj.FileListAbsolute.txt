@@ -1,0 +1,9 @@
+C:\PodcastProject\Podcast.Abstraction\bin\Debug\netstandard2.0\Podcast.Abstraction.deps.json
+C:\PodcastProject\Podcast.Abstraction\bin\Debug\netstandard2.0\Podcast.Abstraction.dll
+C:\PodcastProject\Podcast.Abstraction\bin\Debug\netstandard2.0\Podcast.Abstraction.pdb
+C:\PodcastProject\Podcast.Abstraction\obj\Debug\netstandard2.0\Podcast.Abstraction.csprojAssemblyReference.cache
+C:\PodcastProject\Podcast.Abstraction\obj\Debug\netstandard2.0\Podcast.Abstraction.AssemblyInfoInputs.cache
+C:\PodcastProject\Podcast.Abstraction\obj\Debug\netstandard2.0\Podcast.Abstraction.AssemblyInfo.cs
+C:\PodcastProject\Podcast.Abstraction\obj\Debug\netstandard2.0\Podcast.Abstraction.csproj.CoreCompileInputs.cache
+C:\PodcastProject\Podcast.Abstraction\obj\Debug\netstandard2.0\Podcast.Abstraction.dll
+C:\PodcastProject\Podcast.Abstraction\obj\Debug\netstandard2.0\Podcast.Abstraction.pdb

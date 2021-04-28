@@ -1,0 +1,12 @@
+C:\PodcastProject\PodcastManager\bin\Debug\netstandard2.0\Podcast.BusinessLayer.deps.json
+C:\PodcastProject\PodcastManager\bin\Debug\netstandard2.0\Podcast.BusinessLayer.dll
+C:\PodcastProject\PodcastManager\bin\Debug\netstandard2.0\Podcast.Abstraction.dll
+C:\PodcastProject\PodcastManager\bin\Debug\netstandard2.0\Podcast.Abstraction.pdb
+C:\PodcastProject\PodcastManager\obj\Debug\netstandard2.0\Podcast.BusinessLayer.csprojAssemblyReference.cache
+C:\PodcastProject\PodcastManager\obj\Debug\netstandard2.0\Podcast.BusinessLayer.AssemblyInfoInputs.cache
+C:\PodcastProject\PodcastManager\obj\Debug\netstandard2.0\Podcast.BusinessLayer.AssemblyInfo.cs
+C:\PodcastProject\PodcastManager\obj\Debug\netstandard2.0\Podcast.BusinessLayer.csproj.CopyComplete
+C:\PodcastProject\PodcastManager\bin\Debug\netstandard2.0\Podcast.BusinessLayer.pdb
+C:\PodcastProject\PodcastManager\obj\Debug\netstandard2.0\Podcast.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\PodcastProject\PodcastManager\obj\Debug\netstandard2.0\Podcast.BusinessLayer.dll
+C:\PodcastProject\PodcastManager\obj\Debug\netstandard2.0\Podcast.BusinessLayer.pdb

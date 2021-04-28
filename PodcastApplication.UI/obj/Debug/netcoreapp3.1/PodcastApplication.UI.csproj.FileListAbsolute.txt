@@ -1,0 +1,250 @@
+C:\PodcastProject\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.exe
+C:\PodcastProject\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.deps.json
+C:\PodcastProject\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.runtimeconfig.json
+C:\PodcastProject\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.runtimeconfig.dev.json
+C:\PodcastProject\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.dll
+C:\PodcastProject\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.pdb
+C:\PodcastProject\PodcastApplication.UI\bin\Debug\netcoreapp3.1\System.ServiceModel.Syndication.dll
+C:\PodcastProject\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Abstraction.dll
+C:\PodcastProject\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.BusinessLayer.dll
+C:\PodcastProject\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.InMemory.DataAccess.dll
+C:\PodcastProject\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Xml.Serializer.dll
+C:\PodcastProject\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.InMemory.DataAccess.pdb
+C:\PodcastProject\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Xml.Serializer.pdb
+C:\PodcastProject\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.BusinessLayer.pdb
+C:\PodcastProject\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Abstraction.pdb
+C:\PodcastProject\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csprojAssemblyReference.cache
+C:\PodcastProject\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.Form1.resources
+C:\PodcastProject\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csproj.GenerateResource.cache
+C:\PodcastProject\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.AssemblyInfoInputs.cache
+C:\PodcastProject\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.AssemblyInfo.cs
+C:\PodcastProject\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csproj.CoreCompileInputs.cache
+C:\PodcastProject\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csproj.CopyComplete
+C:\PodcastProject\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.dll
+C:\PodcastProject\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.pdb
+C:\PodcastProject\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.genruntimeconfig.cache
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.exe
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.deps.json
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.runtimeconfig.json
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.runtimeconfig.dev.json
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.dll
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.pdb
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\PodcastApplication.UI\bin\Debug\netcoreapp3.1\System.ServiceModel.Syndication.dll
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Abstraction.dll
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.BusinessLayer.dll
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.InMemory.DataAccess.dll
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Xml.Serializer.dll
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.InMemory.DataAccess.pdb
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Xml.Serializer.pdb
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.BusinessLayer.pdb
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Abstraction.pdb
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csprojAssemblyReference.cache
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.Form1.resources
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csproj.GenerateResource.cache
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.AssemblyInfoInputs.cache
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.AssemblyInfo.cs
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csproj.CoreCompileInputs.cache
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csproj.CopyComplete
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.dll
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.pdb
+C:\Users\hania\OneDrive\Desktop\PodcastProject-senaste2\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.genruntimeconfig.cache
+C:\Users\hania\OneDrive\Desktop\podP-senaste\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.exe
+C:\Users\hania\OneDrive\Desktop\podP-senaste\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.deps.json
+C:\Users\hania\OneDrive\Desktop\podP-senaste\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.runtimeconfig.json
+C:\Users\hania\OneDrive\Desktop\podP-senaste\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.runtimeconfig.dev.json
+C:\Users\hania\OneDrive\Desktop\podP-senaste\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.dll
+C:\Users\hania\OneDrive\Desktop\podP-senaste\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.pdb
+C:\Users\hania\OneDrive\Desktop\podP-senaste\PodcastApplication.UI\bin\Debug\netcoreapp3.1\System.ServiceModel.Syndication.dll
+C:\Users\hania\OneDrive\Desktop\podP-senaste\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Abstraction.dll
+C:\Users\hania\OneDrive\Desktop\podP-senaste\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.BusinessLayer.dll
+C:\Users\hania\OneDrive\Desktop\podP-senaste\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.InMemory.DataAccess.dll
+C:\Users\hania\OneDrive\Desktop\podP-senaste\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Xml.Serializer.dll
+C:\Users\hania\OneDrive\Desktop\podP-senaste\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.InMemory.DataAccess.pdb
+C:\Users\hania\OneDrive\Desktop\podP-senaste\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Xml.Serializer.pdb
+C:\Users\hania\OneDrive\Desktop\podP-senaste\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.BusinessLayer.pdb
+C:\Users\hania\OneDrive\Desktop\podP-senaste\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Abstraction.pdb
+C:\Users\hania\OneDrive\Desktop\podP-senaste\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csprojAssemblyReference.cache
+C:\Users\hania\OneDrive\Desktop\podP-senaste\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.Form1.resources
+C:\Users\hania\OneDrive\Desktop\podP-senaste\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csproj.GenerateResource.cache
+C:\Users\hania\OneDrive\Desktop\podP-senaste\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.AssemblyInfoInputs.cache
+C:\Users\hania\OneDrive\Desktop\podP-senaste\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.AssemblyInfo.cs
+C:\Users\hania\OneDrive\Desktop\podP-senaste\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csproj.CoreCompileInputs.cache
+C:\Users\hania\OneDrive\Desktop\podP-senaste\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csproj.CopyComplete
+C:\Users\hania\OneDrive\Desktop\podP-senaste\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.dll
+C:\Users\hania\OneDrive\Desktop\podP-senaste\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.pdb
+C:\Users\hania\OneDrive\Desktop\podP-senaste\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.genruntimeconfig.cache
+C:\Users\nene5\Downloads\podP-senaste\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.exe
+C:\Users\nene5\Downloads\podP-senaste\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.deps.json
+C:\Users\nene5\Downloads\podP-senaste\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.runtimeconfig.json
+C:\Users\nene5\Downloads\podP-senaste\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.runtimeconfig.dev.json
+C:\Users\nene5\Downloads\podP-senaste\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.dll
+C:\Users\nene5\Downloads\podP-senaste\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.pdb
+C:\Users\nene5\Downloads\podP-senaste\PodcastApplication.UI\bin\Debug\netcoreapp3.1\System.ServiceModel.Syndication.dll
+C:\Users\nene5\Downloads\podP-senaste\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Abstraction.dll
+C:\Users\nene5\Downloads\podP-senaste\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.BusinessLayer.dll
+C:\Users\nene5\Downloads\podP-senaste\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.InMemory.DataAccess.dll
+C:\Users\nene5\Downloads\podP-senaste\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Xml.Serializer.dll
+C:\Users\nene5\Downloads\podP-senaste\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.InMemory.DataAccess.pdb
+C:\Users\nene5\Downloads\podP-senaste\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Xml.Serializer.pdb
+C:\Users\nene5\Downloads\podP-senaste\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.BusinessLayer.pdb
+C:\Users\nene5\Downloads\podP-senaste\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Abstraction.pdb
+C:\Users\nene5\Downloads\podP-senaste\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csprojAssemblyReference.cache
+C:\Users\nene5\Downloads\podP-senaste\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.Form1.resources
+C:\Users\nene5\Downloads\podP-senaste\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csproj.GenerateResource.cache
+C:\Users\nene5\Downloads\podP-senaste\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.AssemblyInfoInputs.cache
+C:\Users\nene5\Downloads\podP-senaste\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.AssemblyInfo.cs
+C:\Users\nene5\Downloads\podP-senaste\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csproj.CoreCompileInputs.cache
+C:\Users\nene5\Downloads\podP-senaste\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csproj.CopyComplete
+C:\Users\nene5\Downloads\podP-senaste\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.dll
+C:\Users\nene5\Downloads\podP-senaste\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.pdb
+C:\Users\nene5\Downloads\podP-senaste\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.genruntimeconfig.cache
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.exe
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.deps.json
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.runtimeconfig.json
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.runtimeconfig.dev.json
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.dll
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.pdb
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\PodcastApplication.UI\bin\Debug\netcoreapp3.1\System.ServiceModel.Syndication.dll
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Abstraction.dll
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.BusinessLayer.dll
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.InMemory.DataAccess.dll
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Xml.Serializer.dll
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.InMemory.DataAccess.pdb
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Xml.Serializer.pdb
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.BusinessLayer.pdb
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Abstraction.pdb
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csprojAssemblyReference.cache
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.Form1.resources
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csproj.GenerateResource.cache
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.AssemblyInfoInputs.cache
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.AssemblyInfo.cs
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csproj.CoreCompileInputs.cache
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csproj.CopyComplete
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.dll
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.pdb
+C:\Users\hania\OneDrive\Desktop\PodcastLatestVersion\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.genruntimeconfig.cache
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.exe
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.deps.json
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.runtimeconfig.json
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.runtimeconfig.dev.json
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.dll
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.pdb
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\PodcastApplication.UI\bin\Debug\netcoreapp3.1\System.ServiceModel.Syndication.dll
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Abstraction.dll
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.BusinessLayer.dll
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.InMemory.DataAccess.dll
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Xml.Serializer.dll
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.InMemory.DataAccess.pdb
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Xml.Serializer.pdb
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.BusinessLayer.pdb
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Abstraction.pdb
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csprojAssemblyReference.cache
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.Form1.resources
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csproj.GenerateResource.cache
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.AssemblyInfoInputs.cache
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.AssemblyInfo.cs
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csproj.CoreCompileInputs.cache
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csproj.CopyComplete
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.dll
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.pdb
+C:\Users\nene5\Downloads\SenasteProjekt\PodcastLatestVersion\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.genruntimeconfig.cache
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.exe
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.deps.json
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.runtimeconfig.json
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.runtimeconfig.dev.json
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.dll
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.pdb
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\PodcastApplication.UI\bin\Debug\netcoreapp3.1\System.ServiceModel.Syndication.dll
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Abstraction.dll
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.BusinessLayer.dll
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.InMemory.DataAccess.dll
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Xml.Serializer.dll
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.InMemory.DataAccess.pdb
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Xml.Serializer.pdb
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.BusinessLayer.pdb
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Abstraction.pdb
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csprojAssemblyReference.cache
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.Form1.resources
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csproj.GenerateResource.cache
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.AssemblyInfo.cs
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csproj.CopyComplete
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.dll
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.pdb
+C:\Users\Simon\Desktop\C#\PodcastSlutlig\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.genruntimeconfig.cache
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.exe
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.deps.json
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.runtimeconfig.json
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.runtimeconfig.dev.json
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.dll
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.pdb
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\System.ServiceModel.Syndication.dll
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Abstraction.dll
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.BusinessLayer.dll
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.InMemory.DataAccess.dll
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Xml.Serializer.dll
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.InMemory.DataAccess.pdb
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Xml.Serializer.pdb
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.BusinessLayer.pdb
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Abstraction.pdb
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csprojAssemblyReference.cache
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.Form1.resources
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csproj.GenerateResource.cache
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.AssemblyInfoInputs.cache
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.AssemblyInfo.cs
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csproj.CoreCompileInputs.cache
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csproj.CopyComplete
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.dll
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.pdb
+C:\Users\nene5\OneDrive\Dokument\Visual Studio 2019\Projekt_Grp19\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.genruntimeconfig.cache
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.exe
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.deps.json
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.runtimeconfig.json
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.runtimeconfig.dev.json
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.dll
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.pdb
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\System.ServiceModel.Syndication.dll
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Abstraction.dll
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.BusinessLayer.dll
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.InMemory.DataAccess.dll
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Xml.Serializer.dll
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.InMemory.DataAccess.pdb
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Xml.Serializer.pdb
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.BusinessLayer.pdb
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Abstraction.pdb
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csprojAssemblyReference.cache
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.Form1.resources
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csproj.GenerateResource.cache
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.AssemblyInfoInputs.cache
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.AssemblyInfo.cs
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csproj.CoreCompileInputs.cache
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csproj.CopyComplete
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.dll
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.pdb
+C:\Users\hania\OneDrive\Desktop\Projekt_Grp19\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.genruntimeconfig.cache
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.exe
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.deps.json
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.runtimeconfig.json
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.runtimeconfig.dev.json
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.dll
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\PodcastApplication.UI.pdb
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\System.ServiceModel.Syndication.dll
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Abstraction.dll
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.BusinessLayer.dll
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.InMemory.DataAccess.dll
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Xml.Serializer.dll
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.InMemory.DataAccess.pdb
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Xml.Serializer.pdb
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.BusinessLayer.pdb
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\PodcastApplication.UI\bin\Debug\netcoreapp3.1\Podcast.Abstraction.pdb
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csprojAssemblyReference.cache
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.Form1.resources
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csproj.GenerateResource.cache
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.AssemblyInfoInputs.cache
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.AssemblyInfo.cs
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csproj.CoreCompileInputs.cache
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.csproj.CopyComplete
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.dll
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.pdb
+C:\Users\hania\OneDrive\Desktop\Skola\C#\Projektet c#\Projekt_Grp19\PodcastApplication.UI\obj\Debug\netcoreapp3.1\PodcastApplication.UI.genruntimeconfig.cache

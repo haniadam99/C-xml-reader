@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Podcast.InMemory.DataAccess",
+    "\\Podcast.InMemory.DataAcess.Test",
+    "\\Podcast.Serializer",
+    "\\Podcast.Serializer.XML",
+    "\\Podcast.Xml.Serializer.Test",
+    "\\PodcastManager"
+  ],
+  "SelectedNode": "\\PodcastManager\\Podcast.BusinessLayer.csproj",
+  "PreviewInSolutionExplorer": false
+}
